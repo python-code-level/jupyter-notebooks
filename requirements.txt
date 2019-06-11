@@ -1,0 +1,9 @@
+nose
+sphinx
+requests[security]
+coverage
+coveralls
+pep8
+scipy
+pandas
+jupyter
