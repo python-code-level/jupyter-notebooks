@@ -1,6 +1,6 @@
 #!/bin/sh
 
-source env/bin/activate
+source venv/bin/activate
 
 echo "Activate virtualenv"
 
